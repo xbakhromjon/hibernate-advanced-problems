@@ -12,6 +12,7 @@
         <module>one-to-many-relationship-child-update</module>
         <module>using-same-entity-twice-in-another-entity</module>
         <module>auditable</module>
+        <module>load-eagerly-lazy-associations</module>
     </modules>
 
     <properties>
